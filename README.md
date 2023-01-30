@@ -1,6 +1,4 @@
-# Task 5 - LetsGrowMore
-
-## Task 5 - Student Management System
+# Student Management System
 #### Language used : HTML , CSS , Java
 #### IDE: Microsoft Visual Studio code
 
